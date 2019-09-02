@@ -40,9 +40,7 @@
   "interests": [
     {
       "name": "Photojournalism",
-      "keywords": [
-        "",
-        ""
+      
       ]
     },
     {
@@ -59,7 +57,7 @@
   "skills": [
     {
       "name": "Adobe Lightroom",
-      "level": "",
+      
       "keywords": [
       ]
     },
