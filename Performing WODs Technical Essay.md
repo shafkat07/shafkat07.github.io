@@ -1,7 +1,6 @@
 layout: essay
 type: essay
 title: Experiencing the WODs!
-# All dates must be YYYY-MM-DD format!
 date: 2019-10-01
 labels:
   - Performing WODs Technical Essay
