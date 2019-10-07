@@ -3,17 +3,17 @@ layout: essay
 type: essay
 title: Experiencing the WODs!
 # All dates must be YYYY-MM-DD format!
-date: 2019-10-01
+date: 2019-10-06
 labels:
-  - Performing WODs Technical Essay
----
+  - E1: UI Basics Technical Essay
+  ---
   
-WOD BrowserHistory 6 is continues from browser history 3, where one main page splits into 4 different ones containing history of Chrome, Firefox, IE and introduction. Moreover, it introduces three buttons in the homepage linked to those 3 pages. Mouse moves over a button, it displays the corresponding browser icon in the area below the buttons. 
+First thing I did to understand what BrowserHistory is, I watched the full screencast video. While watching I was going back and forth to read the instructions very carefully which helped me to understand the coding variations. Since I have a zero background in coding, so I wasn’t adapting to all the coding platforms. After watching it for the first time, I took a break to recap and I actually started doing it along with the video with no timer. I went back to the video many times as I wasn’t getting some tags along with the punctuations. On the 2nd try I timed myself and without a doubt I wasn’t within DNF time. 
 
-WOD Link: file:///Users/shafkat07/Desktop/ITM%20352/ITM-352-Dungeon-/WODs/Browser%20History%206/index.html
+WOD Link: file:///Users/shafkat07/Desktop/ITM%20352/ITM-352-Dungeon-/WODs/Browser%20history%201/index.html
 
-The overall experience was complicated than the previous ones. This one took me much more time to understand and then process. I had to go back and forth to watch the video for certain lines. After making the 3 new pages, linking them to the homepage was the main challenge. It was a lot of coding on the index page to add the other pages in it. Even though it was a copy and pasting sometimes, I was missing out some minor symbols. So every time I reloaded pages I couldn’t find the fault in the page until I realized it was something minor. I managed to learn that through webpage inspections then console. 
+On the 3rd try I took a leap to try it by myself with my timer on just to check the depth I have acquired by trying twice previously. In between I got stuck and went back to revise through the video. This time I made sure when I watched a video, I fully understood what my problem was and an idea of the solution. I went over the DNF time like this but finished the WOD in about an hour. Next try I only went back to the video twice but could finish the WOD in 40 minutes and significantly on the 5th try I finished in 30 minutes without any external aid. It took me time and patience to understand the structure and obviously was frustrated with multiple failure. 
 
-I read the instructions and verified with the video to check if I understood properly or not. The readings were bit complicated, but I still read it. With the previous ones, I at one point gave up and synced with the tutorial video. I don’t have any knowledge for coding so that helped me a lot to understand the basics. 
+My suggestion would be to copy and paste the video on the first try to get the basics and then take required steps one after another to fix the previous problems. Timing can be great deal if someone cares about it. At least for the first couple of tries timing won’t matter as learning would be the main focus but with learning the pace will come in as well. 
 
-I want to have more patience than anything else. Since coding is totally a new world for me so that made me very impatient to stick around. I skipped some reading in between which I want to go back and finish in time before I reach for something bigger.
+ 
